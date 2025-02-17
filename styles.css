@@ -57,3 +57,11 @@ h4{
     border: 5px solid black;
     background-color: lightgreen;
 }
+.greyBox{
+    height: 100px;
+    width: 500px;
+    padding: 20px;
+    margin: 50px;
+    border: 5px solid black;
+    background-color: lightgray;
+}
