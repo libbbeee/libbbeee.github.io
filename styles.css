@@ -26,23 +26,23 @@ h4{
 
 
 .box{
-    height: 100px;
+    height: 300px;
     width: 500px;
     padding: 20px;
     margin: 50px;
     border: 5px solid black;
     background-color: rosybrown;
 }
-.box2{
-    height: 200px;
+.boxTwo{
+    height: 300px;
     width: 500px;
     padding: 20px;
     margin: 50px;
     border: 5px solid black;
     background-color: rosybrown;
 }
-.box3{
-    height: 200px;
+.boxThree{
+    height: 300px;
     width: 500px;
     padding: 20px;
     margin: 50px;
@@ -50,7 +50,7 @@ h4{
     background-color: rosybrown;
 }
 .orangeBox{
-    height: 150px;
+    height: 250px;
     width: 500px;
     padding: 20px;
     margin: 50px;
@@ -58,7 +58,7 @@ h4{
     background-color: sandybrown;
 }
 .blueBox{
-    height: 150px;
+    height: 250px;
     width: 500px;
     padding: 20px;
     margin: 50px;
@@ -66,7 +66,7 @@ h4{
     background-color: skyblue;
 }
 .greenBox{
-    height: 150px;
+    height: 250px;
     width: 500px;
     padding: 20px;
     margin: 50px;
@@ -74,10 +74,13 @@ h4{
     background-color: lightgreen;
 }
 .greyBox{
-    height: 150px;
+    height: 250px;
     width: 500px;
     padding: 20px;
     margin: 50px;
     border: 5px solid black;
     background-color: lightgray;
+}
+.font{
+    font-style: ;
 }
