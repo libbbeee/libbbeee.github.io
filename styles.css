@@ -33,3 +33,27 @@ h4{
     border: 5px solid black;
     background-color: rosybrown;
 }
+.orange_box{
+    height: 100px;
+    width: 500px;
+    padding: 20px;
+    margin: 50px;
+    border: 5px solid black;
+    background-color: sandybrown;
+}
+.blue_box{
+    height: 100px;
+    width: 500px;
+    padding: 20px;
+    margin: 50px;
+    border: 5px solid black;
+    background-color: skyblue;
+}
+.green_box{
+    height: 100px;
+    width: 500px;
+    padding: 20px;
+    margin: 50px;
+    border: 5px solid black;
+    background-color: lightgreen;
+}
