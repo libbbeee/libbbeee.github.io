@@ -81,3 +81,8 @@ h4{
     border: 5px solid black;
     background-color: lightgray;
 }
+.background{
+    background-image: url(https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83ca2597-bf97-457e-8f6e-c749a417f50f_1280x720.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
